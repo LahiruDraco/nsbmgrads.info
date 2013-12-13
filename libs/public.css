@@ -111,3 +111,18 @@ footer {
   margin: 50px;
   text-align: center;
 }
+
+#phot{
+  float:right;
+  margin-left:-100px;
+  margin-top:-200px;
+  size:200%;
+}
+#ph{
+  float:left;
+ }
+
+#top{
+  background-color:#f1e6df;
+  border-radius:5px;
+}
